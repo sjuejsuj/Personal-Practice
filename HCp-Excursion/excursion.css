@@ -1,0 +1,43 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: block;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+#head{
+    font-size: 50px;
+    font-weight: normal;
+    z-index: 10;
+}
+
+.download1,.download2 {
+    font-size: 16px;
+    text-decoration:underline;
+    color: aquamarine;
+}
+
+.download1 a:link,.download2 a:link {
+    font-size: 16px;
+    text-decoration:underline;
+    color: aquamarine;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+}
+
+.guide,.Android {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.greysmall {
+    color: gray;
+}
+
+.phone {
+    margin-top: 20px;
+}
